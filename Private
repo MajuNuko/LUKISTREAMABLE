@@ -1,11 +1,11 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/SIll/main/MIKO.silentaim.gg/credsFuckedUrmom"))()
 DaHoodSettings.Prediction = 0.125533
 Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
-Aiming.FOV = 45.55
-Aiming.FOVSides = 25
+Aiming.FOV = 25.55
+Aiming.FOVSides = 125
 Aiming.HitChance = 400
-Aiming.ShowFOV = true
---EPIC--
+Aiming.ShowFOV = false
+--EPICFORTNITELOCK--
 local RunService = game:GetService("RunService")
 RunService.Heartbeat:Connect(function()
     pcall(function()
