@@ -5,6 +5,7 @@ Aiming.FOV = 45.55
 Aiming.FOVSides = 25
 Aiming.HitChance = 400
 Aiming.ShowFOV = true
+--EPIC--
 local RunService = game:GetService("RunService")
 RunService.Heartbeat:Connect(function()
     pcall(function()
@@ -17,3 +18,4 @@ RunService.Heartbeat:Connect(function()
         end
     end)
 end)
+-- AWDLocalScriptAIMNGDEVICELOCKTAGE)(true)--
