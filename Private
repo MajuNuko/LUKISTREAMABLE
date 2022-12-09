@@ -1,4 +1,4 @@
---hello world etc i shoul dhave obsfc but im nice enough to let this be :) if u do post this just say lukis streamable :)
+--hello world etc i should have obsfc but im nice enough to let this be :) if u do post this just say lukis streamable :)
 --made by Sebastian bock lol 
 --BYE
 --BYE
@@ -5717,9 +5717,9 @@
 -- luv making scripts for yall to be balant XD 
 -- really hope u guys enjoy this SECOND STREAMABLE I EVER MADE :)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/SIll/main/MIKO.silentaim.gg/credsFuckedUrmom"))()
-DaHoodSettings.Prediction = 0.125533
+DaHoodSettings.Prediction = 0.11225533
 Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
-Aiming.FOV = 25.55
+Aiming.FOV = 32.29
 Aiming.FOVSides = 125
 Aiming.HitChance = 400
 Aiming.ShowFOV = false
